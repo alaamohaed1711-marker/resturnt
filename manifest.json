@@ -1,7 +1,7 @@
 {
     "name": "مطعم النخبة",
     "short_name": "النخبة",
-    "description": "مطعم النخبة - مذاق مش بيتنسى من أول قضمة",
+    "description": "مطعم النخبة - مذاق مش بيتنسى",
     "start_url": "./index.html",
     "display": "standalone",
     "orientation": "portrait",
