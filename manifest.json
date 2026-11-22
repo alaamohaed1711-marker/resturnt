@@ -1,0 +1,21 @@
+{
+    "name": "مطعم النخبة",
+    "short_name": "النخبة",
+    "description": "مطعم النخبة - مذاق مش بيتنسى من أول قضمة",
+    "start_url": "./index.html",
+    "display": "standalone",
+    "orientation": "portrait",
+    "background_color": "#0a0a0a",
+    "theme_color": "#0a0a0a",
+    "dir": "rtl",
+    "lang": "ar",
+    "categories": ["food", "lifestyle"],
+    "icons": [
+        {
+            "src": "icon.svg",
+            "sizes": "any",
+            "type": "image/svg+xml",
+            "purpose": "any maskable"
+        }
+    ]
+}
